@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5530f5c-8214-48da-a142-425f80c517b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qLbons87kU893A7ZhVLo0fTJKU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/JetBrains/nrs20-t2-ekurtovic3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kurto\Desktop\Necko\resources\css" />
+      <recent name="C:\Users\kurto\Desktop\Necko\resources\fxml" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ba.unsa.etf.rpr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
+      <module name="Necko" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\JavaFX\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SD_Checkerboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.SD_Checkerboard" />
+      <module name="Necko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SD_Checkerboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5530f5c-8214-48da-a142-425f80c517b7" name="Default Changelist" comment="" />
+      <created>1616861995022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616861995022</updated>
+      <workItem from="1616861996931" duration="12862000" />
+      <workItem from="1616880645936" duration="4006000" />
+      <workItem from="1616884794464" duration="1029000" />
+      <workItem from="1616885859999" duration="5949000" />
+      <workItem from="1616942815369" duration="61000" />
+      <workItem from="1616945450302" duration="5316000" />
+      <workItem from="1617053851203" duration="38000" />
+      <workItem from="1617054963121" duration="2461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616862134836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616862134836" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616886439497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616886439497" />
+    <state width="1537" height="187" key="GridCell.Tab.0.bottom" timestamp="1617057426878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617057426878" />
+    <state width="1537" height="187" key="GridCell.Tab.0.center" timestamp="1617057426878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="187" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617057426878" />
+    <state width="1537" height="187" key="GridCell.Tab.0.left" timestamp="1617057426878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="187" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617057426878" />
+    <state width="1537" height="187" key="GridCell.Tab.0.right" timestamp="1617057426878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="187" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617057426878" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1616862091048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616862091048" />
+    <state x="209" y="33" key="new project wizard" timestamp="1617053891334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617053891334" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1616891476230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616891476230" />
+  </component>
+</project>
